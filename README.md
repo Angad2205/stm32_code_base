@@ -1,2 +1,2 @@
 # stm32_code_base
-Code related to STM microcontroller 
+Code related to STM32 microcontroller 
